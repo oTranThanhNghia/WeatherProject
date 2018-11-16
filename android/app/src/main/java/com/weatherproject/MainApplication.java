@@ -1,4 +1,4 @@
-package com.awesomeproject;
+package com.weatherproject;
 
 import android.app.Application;
 
